@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: crowdin.net\n"
+"Last-Translator: cscart <zeke@cs-cart.com>\n"
+"PO-Revision-Date: 2014-07-22 06:00-0400\n"
+
+msgctxt "Addons::name::altteam_animate_add_to_cart"
+msgid "[Alt-Team] Animated adding to cart"
+msgstr "[Alt-Team] Анимированное добавление в корзину"
+
+msgctxt "Addons::description::altteam_animate_add_to_cart"
+msgid "Allows to make the ordinary actions of 'add to cart' and 'add to wishlist' more attractive to the shoppers. Developed by <a target="_blank" href="https://alt-team.com/">Alt-team</a>"
+msgstr "Позволяет делать действия для 'Добавить в корзину' и 'Добавить в желаемое' более заметным для пользователя. Разработано <a target="_blank" href="https://alt-team.com/">Alt-team</a>"
+
+msgctxt "SettingsSections::altteam_animate_add_to_cart::general"
+msgid "General"
+msgstr "Главное"
+
+msgctxt "SettingsOptions::altteam_animate_add_to_cart::animateAddToCart"
+msgid "Animate Adding to Cart"
+msgstr "Анимированное добавление в корзину"
+
+msgctxt "SettingsTooltips::altteam_animate_add_to_cart::animateAddToCart"
+msgid "To enable animated adding to cart, please, do the following: Check the box “Animated Adding to Cart” in the add-on settings. (It is checked by default). If you want the product image be moved towards the special block , not to the “cart content” block, during the animation, please, add the class "animate-add-to-cart" to the necessary block."
+msgstr "Чтобы включить анимацию, выполните следующие действия: :Установите флажок “Анимированное добавление в корзину” в настройках дополнения. (Установлено по умолчанию). Если вы хотите, чтобы изображение товара перемещалось в сторону специального блока, а не в блок «Содержимое корзины», во время анимации добавьте класс «animate-add-to-cart» в необходимый блок."
+
+
+msgctxt "SettingsOptions::altteam_animate_add_to_cart::animateWishlist"
+msgid "Animate Adding to Wishlist"
+msgstr "Анимированное добавление в желаемое"
+
+msgctxt "SettingsTooltips::altteam_animate_add_to_cart::animateWishlist"
+msgid "To enable animated adding to wishlist, please, do the following: Check the box “Animated Adding to Wishlist” in the add-on settings. (It is unchecked by default). Please, add the class "animate-add-to-wishlist" to the block that the product image should fly to. Ex. select “My account” block, open “block options”, enter "animate-add-to-wishlist" (without any quotation marks) in the field “User-defined CSS-class:”. Save these changes."
+msgstr "Чтобы включить анимацию, выполните следующие действия: :Установите флажок “Анимированное добавление в желаемое в настройках дополнения. (Выключено по умолчанию).Пожалуйста, добавьте класс «animate-add-to-wishlist» в блок, в который должно влететь изображение товара. Затем выберите блок «Моя учетная запись», откройте «Параметры блока», введите «animate-add-to-wishlist» (без кавычек) в поле «Пользовательский CSS-класс:»."
+
+msgctxt "SettingsOptions::altteam_animate_add_to_cart::percentageWidth"
+msgid "Aspect ratio of changing the image size"
+msgstr "Соотношение сторон при изменении размера изображения"

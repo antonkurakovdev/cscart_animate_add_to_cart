@@ -1,0 +1,37 @@
+msgid ""
+msgstr "Project-Id-Version: tygh"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::altteam_animate_add_to_cart"
+msgid "[Alt-Team] Animated adding to cart"
+msgstr "[Alt-Team] Animated adding to cart"
+
+msgctxt "Addons::description::altteam_animate_add_to_cart"
+msgid "Allows to make the ordinary actions of 'add to cart' and 'add to wishlist' more attractive to the shoppers. Developed by <a target="_blank" href="https://alt-team.com/">Alt-team</a>"
+msgstr "Allows to make the ordinary actions of 'add to cart' and 'add to wishlist' more attractive to the shoppers. Developed by <a target="_blank" href="https://alt-team.com/">Alt-team</a>"
+
+msgctxt "SettingsSections::altteam_animate_add_to_cart::general"
+msgid "General"
+msgstr "General"
+
+msgctxt "SettingsOptions::altteam_animate_add_to_cart::animateAddToCart"
+msgid "Animate Adding to Cart"
+msgstr "Animate Adding to Cart"
+
+msgctxt "SettingsTooltips::altteam_animate_add_to_cart::animateAddToCart"
+msgid "To enable animated adding to cart, please, do the following: Check the box “Animated Adding to Cart” in the add-on settings. (It is checked by default). If you want the product image be moved towards the special block , not to the “cart content” block, during the animation, please, add the class "animate-add-to-cart" to the necessary block."
+msgstr "To enable animated adding to cart, please, do the following: Check the box “Animated Adding to Cart” in the add-on settings. (It is checked by default). If you want the product image be moved towards the special block , not to the “cart content” block, during the animation, please, add the class "animate-add-to-cart" to the necessary block."
+
+msgctxt "SettingsOptions::altteam_animate_add_to_cart::animateWishlist"
+msgid "Animate Adding to Wishlist"
+msgstr "Animate Adding to Wishlist"
+
+msgctxt "SettingsTooltips::altteam_animate_add_to_cart::animateWishlist"
+msgid "To enable animated adding to wishlist, please, do the following: Check the box “Animated Adding to Wishlist” in the add-on settings. (It is unchecked by default). Please, add the class "animate-add-to-wishlist" to the block that the product image should fly to. Ex. select “My account” block, open “block options”, enter "animate-add-to-wishlist" (without any quotation marks) in the field “User-defined CSS-class:”. Save these changes."
+msgstr "To enable animated adding to wishlist, please, do the following: Check the box “Animated Adding to Wishlist” in the add-on settings. (It is unchecked by default). Please, add the class "animate-add-to-wishlist" to the block that the product image should fly to. Ex. select “My account” block, open “block options”, enter "animate-add-to-wishlist" (without any quotation marks) in the field “User-defined CSS-class:”. Save these changes."
+
+msgctxt "SettingsOptions::altteam_animate_add_to_cart::percentageWidth"
+msgid "Aspect ratio of changing the image size"
+msgstr "Aspect ratio of changing the image size"

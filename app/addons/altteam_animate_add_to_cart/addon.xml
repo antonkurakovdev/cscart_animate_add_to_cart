@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>altteam_animate_add_to_cart</id>
+    <version>2.1.1</version>
+    <status>active</status>
+    <priority>4294967294</priority>
+    <position>10</position> 
+    <auto_install>MULTIVENDOR,ULTIMATE</auto_install>
+    <default_language>en</default_language>
+    <has_icon>Y</has_icon>
+    <authors>
+        <author>
+            <name>Alt-team</name>
+            <email>manager@alt-team.com</email>
+            <url>https://alt-team.com</url>
+        </author>
+    </authors>
+    <supplier>Alt-team</supplier>
+    <supplier_link>https://alt-team.com</supplier_link>
+    <compatibility>
+        <dependencies>banners</dependencies>
+        <core_version>
+            <min>4.4.1</min>
+        </core_version>        
+    </compatibility>
+    <settings>
+        <sections>
+            <section id="general">
+                <items>
+                    <item id="animateAddToCart">
+                        <type>checkbox</type>
+                        <default_value>Y</default_value>
+                    </item>
+                    <item id="animateWishlist">
+                        <type>checkbox</type>
+                        <default_value>N</default_value>
+                    </item>
+                    <item id="percentageWidth">
+                        <type>input</type>
+                        <default_value>0.5</default_value>
+                    </item>
+                </items>
+            </section>
+        </sections>
+    </settings>
+</addon>
+ 
