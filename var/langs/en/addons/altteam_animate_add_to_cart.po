@@ -12,9 +12,9 @@ msgctxt "Addons::description::altteam_animate_add_to_cart"
 msgid "Allows to make the ordinary actions of 'add to cart' and 'add to wishlist' more attractive to the shoppers. Developed by <a target="_blank" href="https://alt-team.com/">Alt-team</a>"
 msgstr "Allows to make the ordinary actions of 'add to cart' and 'add to wishlist' more attractive to the shoppers. Developed by <a target="_blank" href="https://alt-team.com/">Alt-team</a>"
 
-msgctxt "SettingsSections::altteam_animate_add_to_cart::general"
-msgid "General"
-msgstr "General"
+msgctxt "SettingsOptions::altteam_animate_add_to_cart::license_number"
+msgid "License number"
+msgstr "License number"
 
 msgctxt "SettingsOptions::altteam_animate_add_to_cart::animateAddToCart"
 msgid "Animate Adding to Cart"

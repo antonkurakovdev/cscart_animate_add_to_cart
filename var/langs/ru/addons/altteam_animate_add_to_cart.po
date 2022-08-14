@@ -15,11 +15,11 @@ msgstr "[Alt-Team] Анимированное добавление в корзи
 
 msgctxt "Addons::description::altteam_animate_add_to_cart"
 msgid "Allows to make the ordinary actions of 'add to cart' and 'add to wishlist' more attractive to the shoppers. Developed by <a target="_blank" href="https://alt-team.com/">Alt-team</a>"
-msgstr "Позволяет делать действия для 'Добавить в корзину' и 'Добавить в желаемое' более заметным для пользователя. Разработано <a target="_blank" href="https://alt-team.com/">Alt-team</a>"
+msgstr "Позволяет делать действия для 'Добавить в корзину' и 'Добавить в желаемое' более заметным для пользователя. Разработано <a target="_blank" href="https://alt-team.ru/">Alt-team</a>"
 
-msgctxt "SettingsSections::altteam_animate_add_to_cart::general"
-msgid "General"
-msgstr "Главное"
+msgctxt "SettingsOptions::altteam_animate_add_to_cart::license_number"
+msgid "License number"
+msgstr "Номер лицензии"
 
 msgctxt "SettingsOptions::altteam_animate_add_to_cart::animateAddToCart"
 msgid "Animate Adding to Cart"
@@ -28,7 +28,6 @@ msgstr "Анимированное добавление в корзину"
 msgctxt "SettingsTooltips::altteam_animate_add_to_cart::animateAddToCart"
 msgid "To enable animated adding to cart, please, do the following: Check the box “Animated Adding to Cart” in the add-on settings. (It is checked by default). If you want the product image be moved towards the special block , not to the “cart content” block, during the animation, please, add the class "animate-add-to-cart" to the necessary block."
 msgstr "Чтобы включить анимацию, выполните следующие действия: :Установите флажок “Анимированное добавление в корзину” в настройках дополнения. (Установлено по умолчанию). Если вы хотите, чтобы изображение товара перемещалось в сторону специального блока, а не в блок «Содержимое корзины», во время анимации добавьте класс «animate-add-to-cart» в необходимый блок."
-
 
 msgctxt "SettingsOptions::altteam_animate_add_to_cart::animateWishlist"
 msgid "Animate Adding to Wishlist"
